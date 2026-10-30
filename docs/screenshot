@@ -1,0 +1,5 @@
+docs/
+└── screenshot/
+    ├── 01_tampilan_awal.png
+    ├── 02_input_nilai.png
+    └── 03_hasil_program.png
